@@ -4,6 +4,8 @@
 
 Barbería de barrio en Italia: un sitio que consigue sillas y un panel que ordena el servicio del día.
 
+- Código: [github.com/alejandroaguil-byte/oficio-barberia](https://github.com/alejandroaguil-byte/oficio-barberia)
+
 Oficio es un local ficticio. El proyecto existe para mostrar, con un caso concreto, el tipo de solución que Bobbasystem construye para pequeños negocios de Santiago.
 
 ## Recorrer la demo
@@ -37,6 +39,10 @@ npm run dev
 npm run build
 npm run typecheck
 ```
+
+## Publicar en Vercel
+
+En el dashboard de Vercel (equipo Bobbasystem): **Add New** → **Project** → importar `alejandroaguil-byte/oficio-barberia`. El framework se detecta solo. Cada push a `main` vuelve a publicar.
 
 ## Bobbasystem
 
